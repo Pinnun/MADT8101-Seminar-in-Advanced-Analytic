@@ -1,4 +1,4 @@
-# Customer Data Platform for Department Store
+*# Customer Data Platform for Department Store*
 
 ## Customer Data Platform Flow
 ![Customer Data Platform Flow](./CDP Flow.png)
