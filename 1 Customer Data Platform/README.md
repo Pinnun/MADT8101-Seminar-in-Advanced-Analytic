@@ -1,3 +1,7 @@
-#Customer Data Platform Flow for Department Store
+# Customer Data Platform for Department Store
 
+# Customer Data Platform Flow
 ![CDP Flow](./CDP Flow.png)
+
+# CDP Table of Data Collection
+![CDP Data Collection](./CDP Table of Data Collection.png)
