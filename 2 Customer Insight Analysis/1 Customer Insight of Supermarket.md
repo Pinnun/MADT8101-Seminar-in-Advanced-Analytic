@@ -14,5 +14,5 @@ According to the graph mostly is prositive relation between variable such as rec
 ![CDP Flow](https://github.com/Pinnun/MADT8101-Seminar-in-Advanced-Analytic/blob/d47e06da241aa8751d6ad49a30eaafcb3c414442/2%20Customer%20Insight%20Analysis/Corrlation%20matrix.png)
 ## Clustering group of customer
 ![CDP Flow](https://github.com/Pinnun/MADT8101-Seminar-in-Advanced-Analytic/blob/1c387a16e188e5c7c320e5a6fd9d29f2f6de2db0/2%20Customer%20Insight%20Analysis/Result.png)
-![CDP Flow](
+![CDP Flow](https://github.com/Pinnun/MADT8101-Seminar-in-Advanced-Analytic/blob/39a2cf5ec6ad66c991e90db042b812ff7f563782/2%20Customer%20Insight%20Analysis/Viriable%20importance.png)
 ![CDP Flow](
