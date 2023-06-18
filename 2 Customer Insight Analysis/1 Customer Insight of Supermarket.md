@@ -1,7 +1,5 @@
 # Customer Insight of Supermarket Tulus
 
-
-## Customer Data Platform Flow
-![CDP Flow](https://github.com/Pinnun/MADT8101-Seminar-in-Advanced-Analytic/blob/89fbb70e8ac60df4f2f1627cefca49f94bb7fdb0/1%20Customer%20Data%20Platform/CDP%20Flow.png)
+![CDP Flow](https://github.com/Pinnun/MADT8101-Seminar-in-Advanced-Analytic/blob/1fe4615448610cd819ba7e3a1b46236904c9fd8b/2%20Customer%20Insight%20Analysis/Brand.png)
 
 ## CDP Table of Data Collection
