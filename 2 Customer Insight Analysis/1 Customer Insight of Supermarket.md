@@ -9,4 +9,6 @@ To turn member customer to loyalty customer expected to increase frequency and v
 ## Data Preparation for Analytic by using RFM
 ### RFM R: Recencies within 1 Months, 3 Months F: Frequency within 7 Months M: Monetary within 7 Months
 ![CDP Flow](https://github.com/Pinnun/MADT8101-Seminar-in-Advanced-Analytic/blob/853d85812c6adb1a096dff1ceb067f2a9aa488a9/2%20Customer%20Insight%20Analysis/RFM%20Data.png)
-## Analysit by using correlation matrix
+## Analysis by using correlation matrix
+According to the graph mostly is prositive relation between variable such as recency 1 months VS total spend are positive correlation 69.5%.
+![CDP Flow](https://github.com/Pinnun/MADT8101-Seminar-in-Advanced-Analytic/blob/d47e06da241aa8751d6ad49a30eaafcb3c414442/2%20Customer%20Insight%20Analysis/Corrlation%20matrix.png)
