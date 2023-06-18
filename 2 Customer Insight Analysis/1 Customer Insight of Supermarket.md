@@ -20,12 +20,12 @@ Variable Important are recency 1 months VS total spend
 Scattle plot of recency 1 months VS total spend
 ![CDP Flow](https://github.com/Pinnun/MADT8101-Seminar-in-Advanced-Analytic/blob/b2a276756a977a073c74750b570cac48648b1054/2%20Customer%20Insight%20Analysis/ScatterPlot.png)
 # Expanation variable relationship
-The variaty in purchase item in each division from each Cluster (Total Division is 9)
-Cluster1 :  Mostly purchase product 4-6 divisions (Moderate)
-Cluster2 : Purchase product less than 3 divisions (The last)
-Cluster3 : Mostly purchase product 4-6 divisions  (Moderate)
-Cluster4 : Mostly purchase product 6-7 divisions (Good)
-Other : Purchase product more than 6-8 divisions (The Best)
+The variaty in purchase item in each division from each Cluster (Total Division is 9)  
+Cluster1 :  Mostly purchase product 4-6 divisions (Moderate)  
+Cluster2 : Purchase product less than 3 divisions (The last)  
+Cluster3 : Mostly purchase product 4-6 divisions  (Moderate)  
+Cluster4 : Mostly purchase product 6-7 divisions (Good)  
+Other : Purchase product more than 6-8 divisions (The Best)  
 
 ![CDP Flow](https://github.com/Pinnun/MADT8101-Seminar-in-Advanced-Analytic/blob/5df312be4ad9a9306641d7c63014709431bd9501/2%20Customer%20Insight%20Analysis/ClusterbyFrequencyDivision.png)
 ![CDP Flow](https://github.com/Pinnun/MADT8101-Seminar-in-Advanced-Analytic/blob/5df312be4ad9a9306641d7c63014709431bd9501/2%20Customer%20Insight%20Analysis/ClusterbyRecency1Month.png)
