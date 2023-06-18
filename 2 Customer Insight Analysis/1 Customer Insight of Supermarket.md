@@ -20,3 +20,6 @@ Variable Important are recency 1 months VS total spend
 Scattle plot of recency 1 months VS total spend
 ![CDP Flow](https://github.com/Pinnun/MADT8101-Seminar-in-Advanced-Analytic/blob/b2a276756a977a073c74750b570cac48648b1054/2%20Customer%20Insight%20Analysis/ScatterPlot.png)
 # Expanation variable relationship
+![CDP Flow](https://github.com/Pinnun/MADT8101-Seminar-in-Advanced-Analytic/blob/5df312be4ad9a9306641d7c63014709431bd9501/2%20Customer%20Insight%20Analysis/ClusterbyFrequencyDivision.png)
+![CDP Flow](https://github.com/Pinnun/MADT8101-Seminar-in-Advanced-Analytic/blob/5df312be4ad9a9306641d7c63014709431bd9501/2%20Customer%20Insight%20Analysis/ClusterbyRecency1Month.png)
+![CDP Flow](https://github.com/Pinnun/MADT8101-Seminar-in-Advanced-Analytic/blob/5df312be4ad9a9306641d7c63014709431bd9501/2%20Customer%20Insight%20Analysis/ClusterbyTotalSpend.png)
