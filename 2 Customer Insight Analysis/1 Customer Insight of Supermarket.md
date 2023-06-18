@@ -40,5 +40,13 @@ Cluster 3 : Customer last purchase with us between 136 to 212 days (Nearly Churn
 Cluster 4 : Customer last purchase with us between 25 to 98 days (Moderate)  
 Other : Customer last purchase with us between 25 to 43 days (The Best)  
 
-![CDP Flow](https://github.com/Pinnun/MADT8101-Seminar-in-Advanced-Analytic/blob/5df312be4ad9a9306641d7c63014709431bd9501/2%20Customer%20Insight%20Analysis/ClusterbyRecency1Month.png)
+![CDP Flow](https://github.com/Pinnun/MADT8101-Seminar-in-Advanced-Analytic/blob/5df312be4ad9a9306641d7c63014709431bd9501/2%20Customer%20Insight%20Analysis/ClusterbyRecency1Month.png)  
+Total Spend within 7 months (01/01/2008 to 31/07/2008)  
+Cluster1 : Average total spending 50.55 (Mostly <150)___Moderate  
+Cluster2 : Average total spending 1.17__Little Spend  
+Cluster0 : Average total spending 25.96 (Mostly<50)___Little Spend  
+Cluster3 : Average total spending 12.44 (Mostly<40)__Little Spend  
+Cluster4 : Average total spending 561.93 (Mostly<600) ___Good  
+Other : Average 1457.96 (Mostly<1,500) __TheBest  
+
 ![CDP Flow](https://github.com/Pinnun/MADT8101-Seminar-in-Advanced-Analytic/blob/5df312be4ad9a9306641d7c63014709431bd9501/2%20Customer%20Insight%20Analysis/ClusterbyTotalSpend.png)
