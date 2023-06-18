@@ -8,4 +8,5 @@ To turn member customer to loyalty customer expected to increase frequency and v
 ![CDP Flow](https://github.com/Pinnun/MADT8101-Seminar-in-Advanced-Analytic/blob/a7e1ad28a965bdf82003f3b55902efedad6799ce/2%20Customer%20Insight%20Analysis/Expectations.png)
 ## Data Preparation for Analytic by using RFM
 ### RFM R: Recencies within 1 Months, 3 Months F: Frequency within 7 Months M: Monetary within 7 Months
-
+![CDP Flow](https://github.com/Pinnun/MADT8101-Seminar-in-Advanced-Analytic/blob/853d85812c6adb1a096dff1ceb067f2a9aa488a9/2%20Customer%20Insight%20Analysis/RFM%20Data.png)
+## Analysit by using correlation matrix
