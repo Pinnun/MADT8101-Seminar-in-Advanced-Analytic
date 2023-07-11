@@ -7,4 +7,4 @@ So, this was all about customer churn analysis and prediction.
 # Basic Churn Prediction     
 https://github.com/Pinnun/MADT8101-Seminar-in-Advanced-Analytic/blob/eeb8681788c7a4ae960a3e3c38755ba2baad26cd/4%20Churn%20Scoring/Basic_Churn_Prediction.ipynb
 # E Commerce Churn Prediction     
-
+https://github.com/Pinnun/MADT8101-Seminar-in-Advanced-Analytic/blob/7aefa2863e7df359057322edd208b5c326332d0f/4%20Churn%20Scoring/E_Commerce_Churn_Prediction.ipynb
