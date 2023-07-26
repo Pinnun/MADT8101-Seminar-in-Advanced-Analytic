@@ -9,11 +9,15 @@ https://github.com/Pinnun/MADT8101-Seminar-in-Advanced-Analytic/blob/eeb8681788c
 # E Commerce Churn Prediction     
 Feature Important     
 ![CDP Flow](https://github.com/Pinnun/MADT8101-Seminar-in-Advanced-Analytic/blob/8d7c709e65f95de93a848e1d82a31c7097f15894/4%20Churn%20Scoring/FeatureImportant_EcommerceChurn.png)
+
 Confusion matrix     
 ![CDP Flow](https://github.com/Pinnun/MADT8101-Seminar-in-Advanced-Analytic/blob/8d7c709e65f95de93a848e1d82a31c7097f15894/4%20Churn%20Scoring/Confusion%20matrix.png)
+
 Bivariate Analysis     
 ![CDP Flow](https://github.com/Pinnun/MADT8101-Seminar-in-Advanced-Analytic/blob/8d7c709e65f95de93a848e1d82a31c7097f15894/4%20Churn%20Scoring/Bivariate%20Analysis.png)
+
 Multivariate Analysis     
 ![CDP Flow](https://github.com/Pinnun/MADT8101-Seminar-in-Advanced-Analytic/blob/8d7c709e65f95de93a848e1d82a31c7097f15894/4%20Churn%20Scoring/Multivariate%20Analysis.png)
+
 Python Code     
 https://github.com/Pinnun/MADT8101-Seminar-in-Advanced-Analytic/blob/7aefa2863e7df359057322edd208b5c326332d0f/4%20Churn%20Scoring/E_Commerce_Churn_Prediction.ipynb
