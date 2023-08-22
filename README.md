@@ -4,7 +4,8 @@
 [![Generic badge](https://img.shields.io/badge/<CDP>-<Concept>-<COLOR>.svg)](https://shields.io/)
 
 
-[2.Customer Insight Analysis](https://github.com/Pinnun/MADT8101-Seminar-in-Advanced-Analytic/tree/ae18b50d6e2b393281f7a4a00f8348c84d3854ff/2%20Customer%20Insight%20Analysis)
+[2.Customer Insight Analysis](https://github.com/Pinnun/MADT8101-Seminar-in-Advanced-Analytic/tree/ae18b50d6e2b393281f7a4a00f8348c84d3854ff/2%20Customer%20Insight%20Analysis)     
+![Generic badge](https://img.shields.io/badge/EDA-yellow)
 
 
 
