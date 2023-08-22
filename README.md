@@ -9,7 +9,8 @@
 
 
 
-[3.CLV Customer Scoring](https://github.com/Pinnun/MADT8101-Seminar-in-Advanced-Analytic/tree/0ca31820d607e0da4f641bffaa596564e4a4824e/3%20CLV_CustomerScoring)     ![Generic badge](https://img.shields.io/badge/CLV-yellow)
+[3.CLV Customer Scoring](https://github.com/Pinnun/MADT8101-Seminar-in-Advanced-Analytic/tree/0ca31820d607e0da4f641bffaa596564e4a4824e/3%20CLV_CustomerScoring)     
+![Generic badge](https://img.shields.io/badge/CLV-yellow)
 
 
 
@@ -19,7 +20,7 @@
 
 
 [5.Customer Segmentation & Product Recommendation](https://github.com/Pinnun/MADT8101-Seminar-in-Advanced-Analytic/tree/04d74e05d830d4532a1644fedbf137e0edb1b0ec/5%20Customer%20Segmentation_Product%20Recommendation)     
-![Generic badge](https://img.shields.io/badge/Segmentation-yellow)![Generic badge](https://img.shields.io/badge/Recommendation-yellow)
+![Generic badge](https://img.shields.io/badge/Segmentation-yellow)  ![Generic badge](https://img.shields.io/badge/Recommendation-yellow)
 
 
 [6.Social Network Analytic & Social Voice Analysis](https://github.com/Pinnun/MADT8101-Seminar-in-Advanced-Analytic/tree/a2d5e840b99542d2979655b863499ba66261abae/6%20VOC)     
