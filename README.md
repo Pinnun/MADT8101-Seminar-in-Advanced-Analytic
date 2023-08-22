@@ -15,7 +15,7 @@
 
 
 [4.Churn Scoring](https://github.com/Pinnun/MADT8101-Seminar-in-Advanced-Analytic/tree/46d053976805acbbbfb371456c5c47340753b776/4%20Churn%20Scoring)     
-![Generic badge](https://img.shields.io/badge/Churn-yellow)
+![Generic badge](https://img.shields.io/badge/Churn-yellow)  ![Generic badge](https://img.shields.io/badge/Python-Grey)
 
 
 
