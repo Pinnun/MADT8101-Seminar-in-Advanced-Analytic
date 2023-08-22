@@ -16,4 +16,4 @@
 [Customer Segmentation & Product Recommendation](https://github.com/Pinnun/MADT8101-Seminar-in-Advanced-Analytic/tree/04d74e05d830d4532a1644fedbf137e0edb1b0ec/5%20Customer%20Segmentation_Product%20Recommendation)
 
 
-[Voice of Customer](https://github.com/Pinnun/MADT8101-Seminar-in-Advanced-Analytic/tree/a2d5e840b99542d2979655b863499ba66261abae/6%20VOC)
+[Social Network Analytic & Social Voice Analysis](https://github.com/Pinnun/MADT8101-Seminar-in-Advanced-Analytic/tree/a2d5e840b99542d2979655b863499ba66261abae/6%20VOC)
