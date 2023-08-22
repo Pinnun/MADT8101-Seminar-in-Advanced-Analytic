@@ -7,3 +7,7 @@
 
 
 [CLV Customer Scoring](https://github.com/Pinnun/MADT8101-Seminar-in-Advanced-Analytic/tree/0ca31820d607e0da4f641bffaa596564e4a4824e/3%20CLV_CustomerScoring)
+
+
+
+[Churn Scoring](https://github.com/Pinnun/MADT8101-Seminar-in-Advanced-Analytic/tree/46d053976805acbbbfb371456c5c47340753b776/4%20Churn%20Scoring)
