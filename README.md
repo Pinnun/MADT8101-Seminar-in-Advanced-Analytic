@@ -20,8 +20,29 @@
 
 
 [5.Customer Segmentation & Product Recommendation](https://github.com/Pinnun/MADT8101-Seminar-in-Advanced-Analytic/tree/04d74e05d830d4532a1644fedbf137e0edb1b0ec/5%20Customer%20Segmentation_Product%20Recommendation)     
-![Generic badge](https://img.shields.io/badge/Segmentation-yellow)  ![Generic badge](https://img.shields.io/badge/Recommendation-yellow)
+![Generic badge](https://img.shields.io/badge/Segmentation-yellow)  ![Generic badge](https://img.shields.io/badge/Recommendation-yellow)     
+**Customer Segmentation**is the process of dividing a company's customers into groups based on common characteristics so companies can market to each group effectively and appropriately.     
+▪ Clustering = Unsupervised Classification
 
+**K-means**: applicable only when mean is defined and need to specify k, the number of clusters, in advance but sensitive to noisy data and outliers
+The steps of K-means clustering are:
+1. Determine the number of clusters (k).
+2. Select initial centroids.
+3. Map each data point into the nearest cluster (most similar to centroid).
+4. Update the mean value (centroid) of each cluster.
+5. Repeat step 3–4 until all centroids are not changed.
+
+
+**Product Recommendation**     
+A product recommendation is basically a filtering system that seeks to predict and show the items that a user 
+would like to purchase. It may not be entirely accurate, but if it shows you what you like then it is doing its job 
+right.     
+
+**Collaborative filtering**
+Collaborative Filtering recommends items based on similarity measures between users and/or items. The basic assumption behind the algorithm is that users with similar interests have common preferences.     
+
+
+**Use Case**
 
 [6.Voice of Customer](https://github.com/Pinnun/MADT8101-Seminar-in-Advanced-Analytic/tree/a2d5e840b99542d2979655b863499ba66261abae/6%20VOC)     
 ![Generic badge](https://img.shields.io/badge/NLP-yellow)  ![Generic badge](https://img.shields.io/badge/Python-Grey)     
@@ -40,3 +61,4 @@ data.
 
 
 **Use Case** Voice of Customer : SALA Samui Chaweng Beach Resort
+The topics include topic modeling with LDA, results for topic modeling with LDA, and VOC extraction information.
