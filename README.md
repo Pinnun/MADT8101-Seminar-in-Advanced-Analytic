@@ -3,7 +3,16 @@
 **course outline**
 
 [1.Customer Data Platform](https://github.com/Pinnun/MADT8101-Seminar-in-Advanced-Analytic/tree/34438fbee923f23b3edbcabd98c158b1027efd27/1%20Customer%20Data%20Platform)     
-![Generic badge](https://img.shields.io/badge/CDP-yellow)
+![Generic badge](https://img.shields.io/badge/CDP-yellow)     
+
+     
+>**Customer Data Platform (CDP)** is a platform that amalgamates and manages customer data from various sources. The goal of a CDP is to provide businesses with a complete view of the customer by enabling other analytics tools to use the data and provide useful insights.     
+As you approach architecting your Customer Data Platform (CDP), make sure you have identified what the data your business specific needs, the potential value this data can drive, and how you are going to activate it. This will help you create the most efficient strategy for your business.
+
+
+>**Customer Single View** an accessible and consistent set of information about how a customer has interacted with your company, including what they have bought, their personal data, opinions and feedback.The benefit is understanding how purchases, interactions, and behaviors of customers will drive future actions
+
+
 
 
 [2.Customer Insight Analysis](https://github.com/Pinnun/MADT8101-Seminar-in-Advanced-Analytic/tree/ae18b50d6e2b393281f7a4a00f8348c84d3854ff/2%20Customer%20Insight%20Analysis)     
