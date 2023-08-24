@@ -16,7 +16,7 @@
 
 [4.Churn Scoring](https://github.com/Pinnun/MADT8101-Seminar-in-Advanced-Analytic/tree/46d053976805acbbbfb371456c5c47340753b776/4%20Churn%20Scoring)     
 ![Generic badge](https://img.shields.io/badge/Churn-yellow)  ![Generic badge](https://img.shields.io/badge/Python-Grey)
-
+**Churn Prediction Model** is a predictive model that calculates, on an individual customer basis, the likelihood (or susceptibility) that a customer will stop doing business with the company
 
 
 [5.Customer Segmentation & Product Recommendation](https://github.com/Pinnun/MADT8101-Seminar-in-Advanced-Analytic/tree/04d74e05d830d4532a1644fedbf137e0edb1b0ec/5%20Customer%20Segmentation_Product%20Recommendation)     
