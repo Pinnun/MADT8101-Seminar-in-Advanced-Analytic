@@ -23,5 +23,16 @@
 ![Generic badge](https://img.shields.io/badge/Segmentation-yellow)  ![Generic badge](https://img.shields.io/badge/Recommendation-yellow)
 
 
-[6.Social Network Analytic & Social Voice Analysis](https://github.com/Pinnun/MADT8101-Seminar-in-Advanced-Analytic/tree/a2d5e840b99542d2979655b863499ba66261abae/6%20VOC)     
-![Generic badge](https://img.shields.io/badge/NLP-yellow)  ![Generic badge](https://img.shields.io/badge/Python-Grey)
+[6.Voice of Customer](https://github.com/Pinnun/MADT8101-Seminar-in-Advanced-Analytic/tree/a2d5e840b99542d2979655b863499ba66261abae/6%20VOC)     
+![Generic badge](https://img.shields.io/badge/NLP-yellow)  ![Generic badge](https://img.shields.io/badge/Python-Grey)     
+     Voice of Customer (VoC) analytics is how you turn qualitative and quantitative customer feedback into 
+categorized datasets that can be analyzed to fill gaps in the customer journey experience. This includes labeling 
+and categorizing feedback into appropriate buckets so you can aggregate data like you would with numerical 
+data.
+VoC tools
+▪ Sentiment analysis
+▪ Fake review identification
+▪ Topic identification
+▪ Net promoter score
+▪ Named entity recognition
+
