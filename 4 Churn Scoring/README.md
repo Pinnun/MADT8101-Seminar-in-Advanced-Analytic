@@ -5,7 +5,8 @@ To used GreedsearchCV for hyperparameter tuning to find the best algorithm with 
 Finally found out the features that had more influence on prediction.     
 So, this was all about customer churn analysis and prediction.    
 # Basic Churn Prediction     
-https://github.com/Pinnun/MADT8101-Seminar-in-Advanced-Analytic/blob/eeb8681788c7a4ae960a3e3c38755ba2baad26cd/4%20Churn%20Scoring/Basic_Churn_Prediction.ipynb
+[Basic Churn Prediction](https://github.com/Pinnun/MADT8101-Seminar-in-Advanced-Analytic/blob/eeb8681788c7a4ae960a3e3c38755ba2baad26cd/4%20Churn%20Scoring/Basic_Churn_Prediction.ipynb)     
+[Ecommerce Churn Prediction](https://github.com/Pinnun/MADT8101-Seminar-in-Advanced-Analytic/blob/106419a858ac5e3e6a88f7dbdcfd4ae9346843c3/4%20Churn%20Scoring/Raw%20Data/Python/E_Commerce_Churn_Prediction.ipynb)
 # E Commerce Churn Prediction     
 Feature Important     
 ![CDP Flow](https://github.com/Pinnun/MADT8101-Seminar-in-Advanced-Analytic/blob/106419a858ac5e3e6a88f7dbdcfd4ae9346843c3/4%20Churn%20Scoring/Raw%20Data/FeatureImportant_EcommerceChurn.png)
@@ -19,5 +20,3 @@ Bivariate Analysis
 Multivariate Analysis     
 ![CDP Flow](https://github.com/Pinnun/MADT8101-Seminar-in-Advanced-Analytic/blob/106419a858ac5e3e6a88f7dbdcfd4ae9346843c3/4%20Churn%20Scoring/Raw%20Data/Multivariate%20Analysis.png)
 
-Python Code     
-https://github.com/Pinnun/MADT8101-Seminar-in-Advanced-Analytic/blob/106419a858ac5e3e6a88f7dbdcfd4ae9346843c3/4%20Churn%20Scoring/Raw%20Data/Python/Basic_Churn_Prediction.ipynb
