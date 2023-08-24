@@ -38,3 +38,5 @@ data.
 ▪ Net promoter score     
 ▪ Named entity recognition
 
+
+**Use Case** Voice of Customer : SALA Samui Chaweng Beach Resort
