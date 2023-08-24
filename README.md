@@ -1,5 +1,5 @@
 # MADT8101-Seminar-in-Advanced-Analytic
->This is the one of project of *Seminar-in-Advanced-Analytic* subject of Master of Science Program in Management of Analytics and Data Technologies at NIDA Thailand. 
+>This is one of the projects of the *Seminar in Advanced-Analytic* subject of the Master of Science Program in Management of Analytics and Data Technologies at NIDA Thailand.
 
 This course included Overview of customer relationship management and customer relationship management analytics; market segmentation using K-means clustering and self organizing map; up-sell; cross-sell; customer retention; market basket analysis; response analysis; and decision trees. The class assignment and activity are shown below.    
 
