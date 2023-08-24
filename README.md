@@ -21,7 +21,7 @@ As you approach architecting your Customer Data Platform (CDP), make sure you ha
 >**Customer analytics** is the process where data collected from different sources is analysed to determine, attract, and maintain customers. It helps businesses draw useful insights, create more useful products, deliver better services, and develop more profitable business decisions.
 
 
-**Use Case** Lotus's
+**Use Case** *Lotus's*
 
 
 [3.CLV Customer Scoring](https://github.com/Pinnun/MADT8101-Seminar-in-Advanced-Analytic/tree/0ca31820d607e0da4f641bffaa596564e4a4824e/3%20CLV_CustomerScoring)     
@@ -36,7 +36,7 @@ As you approach architecting your Customer Data Platform (CDP), make sure you ha
   • **Not all customers are alike.** You may want to focus your marketing efforts on certain customer profiles, as some of them are more likely to make purchases, have a larger average basket size, shop more frequently, have a higher customer satisfaction score, etc. Customer scoring enables you to identify these customers.     
   • **Successful marketing means setting priorities.** The goal is to improve your performance by focusing your marketing campaigns on the customers that are most likely to make a purchase.     
 
-**Use Case** Shopee member teir
+**Use Case** *Shopee member teir*
 
 
 [4.Churn Scoring](https://github.com/Pinnun/MADT8101-Seminar-in-Advanced-Analytic/tree/46d053976805acbbbfb371456c5c47340753b776/4%20Churn%20Scoring)     
@@ -46,7 +46,7 @@ As you approach architecting your Customer Data Platform (CDP), make sure you ha
 >**Churn Prediction Model** is a predictive model that calculates, on an individual customer basis, the likelihood (or susceptibility) that a customer will stop doing business with the company.     
 
 
-**Use Case** E Commerce Churn Prediction
+**Use Case** *E Commerce Churn Prediction*
 The result of the analysis was shown as a confusion matrix and a bivariate and multivariate analysis.
 
 
@@ -75,7 +75,7 @@ right.
 Collaborative Filtering recommends items based on similarity measures between users and/or items. The basic assumption behind the algorithm is that users with similar interests have common preferences.     
 
 
-**Use Case** HDI holding case     
+**Use Case** *HDI holding case*     
 There are the processes of data preparation, modeling, and dashboard showing to adapt to business.
 
 [6.Voice of Customer](https://github.com/Pinnun/MADT8101-Seminar-in-Advanced-Analytic/tree/a2d5e840b99542d2979655b863499ba66261abae/6%20VOC)     
@@ -96,5 +96,5 @@ data.
 ▪ Named entity recognition
 
 
-**Use Case** Voice of Customer : SALA Samui Chaweng Beach Resort
+**Use Case** *Voice of Customer : SALA Samui Chaweng Beach Resort*
 The topics include topic modeling with LDA, results for topic modeling with LDA, and VOC extraction information.
