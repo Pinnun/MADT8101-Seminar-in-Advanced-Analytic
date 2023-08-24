@@ -7,15 +7,15 @@ Finally found out the features that had more influence on prediction.So, this wa
 [Basic Churn Prediction](https://github.com/Pinnun/MADT8101-Seminar-in-Advanced-Analytic/blob/11e6edc0f24e0c2aabe3b247ff95acbce688e084/4%20Churn%20Scoring/Raw%20Data/Python/Basic_Churn_Prediction.ipynb)     
 [Ecommerce Churn Prediction](https://github.com/Pinnun/MADT8101-Seminar-in-Advanced-Analytic/blob/11e6edc0f24e0c2aabe3b247ff95acbce688e084/4%20Churn%20Scoring/Raw%20Data/Python/E_Commerce_Churn_Prediction.ipynb)
 # E Commerce Churn Prediction     
-Feature Important     
+**Feature Important**     
 ![CDP Flow](https://github.com/Pinnun/MADT8101-Seminar-in-Advanced-Analytic/blob/106419a858ac5e3e6a88f7dbdcfd4ae9346843c3/4%20Churn%20Scoring/Raw%20Data/FeatureImportant_EcommerceChurn.png)
 
-Confusion matrix     
+**Confusion matrix**     
 ![CDP Flow](https://github.com/Pinnun/MADT8101-Seminar-in-Advanced-Analytic/blob/106419a858ac5e3e6a88f7dbdcfd4ae9346843c3/4%20Churn%20Scoring/Raw%20Data/Confusion%20matrix.png)
 
-Bivariate Analysis     
+**Bivariate Analysis**     
 ![CDP Flow](https://github.com/Pinnun/MADT8101-Seminar-in-Advanced-Analytic/blob/106419a858ac5e3e6a88f7dbdcfd4ae9346843c3/4%20Churn%20Scoring/Raw%20Data/Bivariate%20Analysis.png)
 
-Multivariate Analysis     
+**Multivariate Analysis**     
 ![CDP Flow](https://github.com/Pinnun/MADT8101-Seminar-in-Advanced-Analytic/blob/106419a858ac5e3e6a88f7dbdcfd4ae9346843c3/4%20Churn%20Scoring/Raw%20Data/Multivariate%20Analysis.png)
 
