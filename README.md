@@ -12,8 +12,15 @@
 
 
 [3.CLV Customer Scoring](https://github.com/Pinnun/MADT8101-Seminar-in-Advanced-Analytic/tree/0ca31820d607e0da4f641bffaa596564e4a4824e/3%20CLV_CustomerScoring)     
-![Generic badge](https://img.shields.io/badge/CLV-yellow)
+![Generic badge](https://img.shields.io/badge/CLV-yellow)     
+**Customer lifetime value** is the dollar value of a customer relationship based on the present value of the projected future cash flows from the relationship     
 
+
+**Customer Scoring** Customer scoring is a technique in which a score is attributed to each customer in your database. It’s based on two key ideas:
+• **Not all customers are alike.** You may want to focus your marketing efforts on certain customer profiles, as some of them are more likely to make purchases, have a larger average basket size, shop more frequently, have a higher customer satisfaction score, etc. Customer scoring enables you to identify these customers.
+• **Successful marketing means setting priorities.** The goal is to improve your performance by focusing your marketing campaigns on the customers that are most likely to make a purchase.     
+
+**Use Case** Shopee member teir
 
 
 [4.Churn Scoring](https://github.com/Pinnun/MADT8101-Seminar-in-Advanced-Analytic/tree/46d053976805acbbbfb371456c5c47340753b776/4%20Churn%20Scoring)     
