@@ -59,7 +59,7 @@ Collaborative Filtering recommends items based on similarity measures between us
 **Use Case**hdi holding case     
 There are the processes of data preparation, modeling, and dashboard showing to adapt to business.
 
-**[6.Voice of Customer]**(https://github.com/Pinnun/MADT8101-Seminar-in-Advanced-Analytic/tree/a2d5e840b99542d2979655b863499ba66261abae/6%20VOC)     
+[6.Voice of Customer](https://github.com/Pinnun/MADT8101-Seminar-in-Advanced-Analytic/tree/a2d5e840b99542d2979655b863499ba66261abae/6%20VOC)     
 ![Generic badge](https://img.shields.io/badge/NLP-yellow)  ![Generic badge](https://img.shields.io/badge/Python-Grey)     
 **Voice of Customer (VoC)** analytics is how you turn qualitative and quantitative customer feedback into 
 categorized datasets that can be analyzed to fill gaps in the customer journey experience. This includes labeling 
