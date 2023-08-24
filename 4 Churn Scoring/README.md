@@ -8,16 +8,16 @@ So, this was all about customer churn analysis and prediction.
 https://github.com/Pinnun/MADT8101-Seminar-in-Advanced-Analytic/blob/eeb8681788c7a4ae960a3e3c38755ba2baad26cd/4%20Churn%20Scoring/Basic_Churn_Prediction.ipynb
 # E Commerce Churn Prediction     
 Feature Important     
-![CDP Flow](https://github.com/Pinnun/MADT8101-Seminar-in-Advanced-Analytic/blob/8d7c709e65f95de93a848e1d82a31c7097f15894/4%20Churn%20Scoring/FeatureImportant_EcommerceChurn.png)
+![CDP Flow](https://github.com/Pinnun/MADT8101-Seminar-in-Advanced-Analytic/blob/106419a858ac5e3e6a88f7dbdcfd4ae9346843c3/4%20Churn%20Scoring/Raw%20Data/FeatureImportant_EcommerceChurn.png)
 
 Confusion matrix     
-![CDP Flow](https://github.com/Pinnun/MADT8101-Seminar-in-Advanced-Analytic/blob/8d7c709e65f95de93a848e1d82a31c7097f15894/4%20Churn%20Scoring/Confusion%20matrix.png)
+![CDP Flow](https://github.com/Pinnun/MADT8101-Seminar-in-Advanced-Analytic/blob/106419a858ac5e3e6a88f7dbdcfd4ae9346843c3/4%20Churn%20Scoring/Raw%20Data/Confusion%20matrix.png)
 
 Bivariate Analysis     
-![CDP Flow](https://github.com/Pinnun/MADT8101-Seminar-in-Advanced-Analytic/blob/8d7c709e65f95de93a848e1d82a31c7097f15894/4%20Churn%20Scoring/Bivariate%20Analysis.png)
+![CDP Flow](https://github.com/Pinnun/MADT8101-Seminar-in-Advanced-Analytic/blob/106419a858ac5e3e6a88f7dbdcfd4ae9346843c3/4%20Churn%20Scoring/Raw%20Data/Bivariate%20Analysis.png)
 
 Multivariate Analysis     
-![CDP Flow](https://github.com/Pinnun/MADT8101-Seminar-in-Advanced-Analytic/blob/8d7c709e65f95de93a848e1d82a31c7097f15894/4%20Churn%20Scoring/Multivariate%20Analysis.png)
+![CDP Flow](https://github.com/Pinnun/MADT8101-Seminar-in-Advanced-Analytic/blob/106419a858ac5e3e6a88f7dbdcfd4ae9346843c3/4%20Churn%20Scoring/Raw%20Data/Multivariate%20Analysis.png)
 
 Python Code     
-https://github.com/Pinnun/MADT8101-Seminar-in-Advanced-Analytic/blob/7aefa2863e7df359057322edd208b5c326332d0f/4%20Churn%20Scoring/E_Commerce_Churn_Prediction.ipynb
+https://github.com/Pinnun/MADT8101-Seminar-in-Advanced-Analytic/blob/106419a858ac5e3e6a88f7dbdcfd4ae9346843c3/4%20Churn%20Scoring/Raw%20Data/Python/Basic_Churn_Prediction.ipynb
