@@ -16,9 +16,10 @@
 **Customer lifetime value** is the dollar value of a customer relationship based on the present value of the projected future cash flows from the relationship     
 
 
-**Customer Scoring** Customer scoring is a technique in which a score is attributed to each customer in your database. It’s based on two key ideas:
-• **Not all customers are alike.** You may want to focus your marketing efforts on certain customer profiles, as some of them are more likely to make purchases, have a larger average basket size, shop more frequently, have a higher customer satisfaction score, etc. Customer scoring enables you to identify these customers.
-• **Successful marketing means setting priorities.** The goal is to improve your performance by focusing your marketing campaigns on the customers that are most likely to make a purchase.     
+**Customer Scoring** Customer scoring is a technique in which a score is attributed to each customer in your database. It’s based on two key ideas:   
+  
+  • **Not all customers are alike.** You may want to focus your marketing efforts on certain customer profiles, as some of them are more likely to make purchases, have a larger average basket size, shop more frequently, have a higher customer satisfaction score, etc. Customer scoring enables you to identify these customers.     
+  • **Successful marketing means setting priorities.** The goal is to improve your performance by focusing your marketing campaigns on the customers that are most likely to make a purchase.     
 
 **Use Case** Shopee member teir
 
