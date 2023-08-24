@@ -1,6 +1,6 @@
 # Customer Insight of Supermarket Tolus
-Business objective is to maximize profit in retail supermarket in Bangkok,Thailand  
-Business Strategy is to maintain Customer Retention  
+- **Business objective** is to maximize profit in retail supermarket in Bangkok,Thailand  
+- **Business Strategy** is to maintain Customer Retention  
 
 ![CDP Flow](https://github.com/Pinnun/MADT8101-Seminar-in-Advanced-Analytic/blob/0e5c3d056e1b95c76d27b0fc8d2e8f5d5f04c7e3/2%20Customer%20Insight%20Analysis/Raw%20Data/Brand.png)
 # Tolus's Expectaion
