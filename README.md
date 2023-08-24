@@ -23,7 +23,7 @@
   • **Not all customers are alike.** You may want to focus your marketing efforts on certain customer profiles, as some of them are more likely to make purchases, have a larger average basket size, shop more frequently, have a higher customer satisfaction score, etc. Customer scoring enables you to identify these customers.     
   • **Successful marketing means setting priorities.** The goal is to improve your performance by focusing your marketing campaigns on the customers that are most likely to make a purchase.     
 
->**Use Case** Shopee member teir
+**Use Case** Shopee member teir
 
 
 [4.Churn Scoring](https://github.com/Pinnun/MADT8101-Seminar-in-Advanced-Analytic/tree/46d053976805acbbbfb371456c5c47340753b776/4%20Churn%20Scoring)     
@@ -33,7 +33,7 @@
 >**Churn Prediction Model** is a predictive model that calculates, on an individual customer basis, the likelihood (or susceptibility) that a customer will stop doing business with the company.     
 
 
->**Use Case** E Commerce Churn Prediction
+**Use Case** E Commerce Churn Prediction
 The result of the analysis was shown as a confusion matrix and a bivariate and multivariate analysis.
 
 
@@ -44,7 +44,7 @@ The result of the analysis was shown as a confusion matrix and a bivariate and m
 >**Customer Segmentation**is the process of dividing a company's customers into groups based on common characteristics so companies can market to each group effectively and appropriately.     
 ▪ Clustering = Unsupervised Classification
 
->**K-means**: applicable only when mean is defined and need to specify k, the number of clusters, in advance but sensitive to noisy data and outliers
+**K-means**: applicable only when mean is defined and need to specify k, the number of clusters, in advance but sensitive to noisy data and outliers
 The steps of K-means clustering are:
 1. Determine the number of clusters (k).
 2. Select initial centroids.
@@ -58,11 +58,11 @@ A product recommendation is basically a filtering system that seeks to predict a
 would like to purchase. It may not be entirely accurate, but if it shows you what you like then it is doing its job 
 right.     
 
->**Collaborative filtering**
+**Collaborative filtering**
 Collaborative Filtering recommends items based on similarity measures between users and/or items. The basic assumption behind the algorithm is that users with similar interests have common preferences.     
 
 
->**Use Case** HDI holding case     
+**Use Case** HDI holding case     
 There are the processes of data preparation, modeling, and dashboard showing to adapt to business.
 
 [6.Voice of Customer](https://github.com/Pinnun/MADT8101-Seminar-in-Advanced-Analytic/tree/a2d5e840b99542d2979655b863499ba66261abae/6%20VOC)     
@@ -75,7 +75,7 @@ and categorizing feedback into appropriate buckets so you can aggregate data lik
 data.
 
 
->**VoC tools**     
+**VoC tools**     
 ▪ Sentiment analysis     
 ▪ Fake review identification     
 ▪ Topic identification     
