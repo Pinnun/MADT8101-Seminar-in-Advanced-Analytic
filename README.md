@@ -24,4 +24,4 @@
 
 
 [6.Social Network Analytic & Social Voice Analysis](https://github.com/Pinnun/MADT8101-Seminar-in-Advanced-Analytic/tree/a2d5e840b99542d2979655b863499ba66261abae/6%20VOC)     
-![Generic badge](https://img.shields.io/badge/NLP-yellow)
+![Generic badge](https://img.shields.io/badge/NLP-yellow)  ![Generic badge](https://img.shields.io/badge/Python-Grey)
