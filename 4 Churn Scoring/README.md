@@ -1,9 +1,8 @@
 # Churn Project     
-To explored and performed an analysis of an e-commerce dataset.     
-To ran different classification algorithms with sci-kit learn’s Pipeline method.     
-To used GreedsearchCV for hyperparameter tuning to find the best algorithm with the best set of parameters.     
-Finally found out the features that had more influence on prediction.     
-So, this was all about customer churn analysis and prediction.    
+- To explored and performed an analysis of an e-commerce dataset.     
+- To ran different classification algorithms with sci-kit learn’s Pipeline method.     
+- To used GreedsearchCV for hyperparameter tuning to find the best algorithm with the best set of parameters.     
+Finally found out the features that had more influence on prediction.So, this was all about customer churn analysis and prediction.    
 # Basic Churn Prediction     
 [Basic Churn Prediction](https://github.com/Pinnun/MADT8101-Seminar-in-Advanced-Analytic/blob/11e6edc0f24e0c2aabe3b247ff95acbce688e084/4%20Churn%20Scoring/Raw%20Data/Python/Basic_Churn_Prediction.ipynb)     
 [Ecommerce Churn Prediction](https://github.com/Pinnun/MADT8101-Seminar-in-Advanced-Analytic/blob/11e6edc0f24e0c2aabe3b247ff95acbce688e084/4%20Churn%20Scoring/Raw%20Data/Python/E_Commerce_Churn_Prediction.ipynb)
