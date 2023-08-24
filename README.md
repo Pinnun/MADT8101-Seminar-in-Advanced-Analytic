@@ -82,10 +82,7 @@ There are the processes of data preparation, modeling, and dashboard showing to 
 ![Generic badge](https://img.shields.io/badge/NLP-yellow)  ![Generic badge](https://img.shields.io/badge/Python-Grey)     
 
      
->**Voice of Customer (VoC)** analytics is how you turn qualitative and quantitative customer feedback into 
-categorized datasets that can be analyzed to fill gaps in the customer journey experience. This includes labeling 
-and categorizing feedback into appropriate buckets so you can aggregate data like you would with numerical 
-data.
+>**Voice of Customer (VoC)** analytics is how you turn qualitative and quantitative customer feedback into categorized datasets that can be analyzed to fill gaps in the customer journey experience. This includes labeling and categorizing feedback into appropriate buckets so you can aggregate data like you would with numerical data.
 
 
 **VoC tools**     
@@ -96,5 +93,5 @@ data.
 ▪ Named entity recognition
 
 
-**Use Case** *Voice of Customer : SALA Samui Chaweng Beach Resort*
+**Use Case** *Voice of Customer : SALA Samui Chaweng Beach Resort*     
 The topics include topic modeling with LDA, results for topic modeling with LDA, and VOC extraction information.
