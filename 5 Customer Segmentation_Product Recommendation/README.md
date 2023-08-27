@@ -85,3 +85,4 @@ Customer Dashboard
 ## PERFORMANCE EVALUATION
 ![CDP Flow](https://github.com/Pinnun/MADT8101-Seminar-in-Advanced-Analytic/blob/445107beea8634d3a3f20d0cb3d6feebd320d5e4/5%20Customer%20Segmentation_Product%20Recommendation/Raw%20Data/18%20Performance%20Evaluation.png)
 
+[Python]()
