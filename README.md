@@ -24,7 +24,7 @@ As you approach architecting your Customer Data Platform (CDP), make sure you ha
 >**Customer analytics** is the process where data collected from different sources is analysed to determine, attract, and maintain customers. It helps businesses draw useful insights, create more useful products, deliver better services, and develop more profitable business decisions.
 
 
-**Use Case** *Lotus's*
+**Use Case** *Tolus's*
 
 
 [3.CLV Customer Scoring](https://github.com/Pinnun/MADT8101-Seminar-in-Advanced-Analytic/tree/0ca31820d607e0da4f641bffaa596564e4a4824e/3%20CLV_CustomerScoring)     
@@ -54,7 +54,7 @@ The result of the analysis was shown as a confusion matrix and a bivariate and m
 
 
 [5.Customer Segmentation & Product Recommendation](https://github.com/Pinnun/MADT8101-Seminar-in-Advanced-Analytic/tree/04d74e05d830d4532a1644fedbf137e0edb1b0ec/5%20Customer%20Segmentation_Product%20Recommendation)     
-![Generic badge](https://img.shields.io/badge/Segmentation-yellow)  ![Generic badge](https://img.shields.io/badge/Recommendation-yellow)     
+![Generic badge](https://img.shields.io/badge/Segmentation-yellow)  ![Generic badge](https://img.shields.io/badge/Recommendation-yellow)    ![Generic badge](https://img.shields.io/badge/Python-Grey)        
 
      
 >**Customer Segmentation**is the process of dividing a company's customers into groups based on common characteristics so companies can market to each group effectively and appropriately.     
