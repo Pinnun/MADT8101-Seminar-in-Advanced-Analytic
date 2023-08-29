@@ -4,7 +4,7 @@ A **Customer Data Platform (CDP)** is a platform that amalgamates and manages cu
 
 **CDP Work Process**     
 
-///***1. Data Collection***     
+***1. Data Collection***     
 There are two types of customer retention data collection patterns for brands: Collect customer’s profile and behavioral data altogether in one place.     
 
 ***2. ID Resolution or Profile Unification***     
