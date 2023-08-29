@@ -44,6 +44,7 @@ Finally found out the features that had more influence on prediction.So, this wa
 From the dataset owned by shoptify, there are 20 feature datasets consisting of *5 categorical features* and *15 numerical features*.
      
 **Feature Important**     
+As you can see that top 2 feature important are tenure and complain so we have to analysis more for this 2 features.
 ![CDP Flow](https://github.com/Pinnun/MADT8101-Seminar-in-Advanced-Analytic/blob/106419a858ac5e3e6a88f7dbdcfd4ae9346843c3/4%20Churn%20Scoring/Raw%20Data/FeatureImportant_EcommerceChurn.png)
 
 **Confusion matrix**     
