@@ -22,14 +22,22 @@ We choose use case of shopee try to modify calculation new customer score.
 1 How to *adapt factor loyalty program* of Use case and *calculation new customer score* formula     
 2 *CLV Calculation* as a factor of loyalty program and show calculation
 # Parameter for Customer Scoring     
-We add the *new parameter* that may effect to loyalty customer such as 
-*- product Reviews*
-  The more they purchase and give feedback, the more you get rewards
-*- No of Referrals*
-  The number of referral to be member and those member make first purchase with us, the rewards was added to them
-*- Average Revenue Per User or ARPU*
+We add the *new parameter* that may effect to loyalty customer such as      
+
+*- product Reviews*     
+
+  The more they purchase and give feedback, the more you get rewards      
+  
+*- No of Referrals*     
+
+  The number of referral to be member and those member make first purchase with us, the rewards was added to them     
+  
+*- Average Revenue Per User or ARPU*     
+
   The member who high purchase and make us high revenue (such as no need subsidies from coupon), may get higher rewards back.     
-*- Customer Lifetime Value or CLV*
+  
+*- Customer Lifetime Value or CLV*     
+
 The customer who is calculate high CLV so they will get the high rewards.
 
 ![CDP Flow](https://github.com/Pinnun/MADT8101-Seminar-in-Advanced-Analytic/blob/1b73233b9d340b2ee74aa5d3f0b956f65f3c7676/3%20CLV_CustomerScoring/Raw%20Data/1%20Parameter.jpg)   
