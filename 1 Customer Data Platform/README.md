@@ -8,10 +8,10 @@ There are two types of customer retention data collection patterns for brands: C
 *2. ID Resolution or Profile Unification*     
 Create a customer profile by mapping ID to provide information for customers between different platforms and using various marketing tools to see the whole customer journey as a single person     
 
-*3. Advances Analytics*
+*3. Advances Analytics*     
 Use those data to create marketing campaigns (Ex. Segmentation).
 
-*5. Activation*
+*5. Activation*     
 Activate the segmentation from the previous step for further marketing (Ex. Shooting Ads through various channels by sending out different offers in accordance to each customer’s profile).     
 
 ## Customer Data Platform Flow
