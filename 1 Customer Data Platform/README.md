@@ -30,19 +30,19 @@ Activate the segmentation from the previous step for further marketing (Ex. Shoo
 ![CDP Data Collection](https://github.com/Pinnun/MADT8101-Seminar-in-Advanced-Analytic/blob/8ff4ef508180fa808fd4fe1508e9a1aab965450c/1%20Customer%20Data%20Platform/Raw%20Data/CDP%20Table%20of%20Data%20Collection.png)
 
 ## Top Customer Data Platform Use Cases     
-1.  *Data Integration and Management*
+1.  *Data Integration and Management*     
    
    For companies adopting a CDP, the key use is collecting data from diverse channels. All CDPs must have this core capability. Data, whether structured or not, can be used as-is or modified for data-driven marketing. A unified customer data foundation enables personalized experiences, boosting loyalty and value.
 
-2.  *Single View of the Customer*
+2.  *Single View of the Customer*     
    
    CDPs serve as a central customer data hub, aggregating and refining data from various sources to establish an accurate single customer view. AI-driven identity resolution enhances data quality and consistency in this process.     
 
-3.  *Identity Resolution*
+3.  *Identity Resolution*     
    
    Identity resolution merges data from different sources into one customer identity, often integrated within CDPs. This improves customer profiles and provides reliable, enriched data for various business units.
 
-4.  *Identify and Segment High-Value Audiences*
+4.  *Identify and Segment High-Value Audiences*     
    
    In the online landscape, understanding consumers and staying relevant is crucial. A quality CDP offers real-time insights through propensity models, identifying key customers and aiding retargeting accuracy. By aligning customer and advertising data, CDPs create optimized segments for more precise audience targeting, enhancing the effectiveness of lookalike algorithms.
 
