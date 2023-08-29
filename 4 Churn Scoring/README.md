@@ -25,6 +25,21 @@ Finally found out the features that had more influence on prediction.So, this wa
    - Gender     
    - Marital Status     
 3. Numerical
+   - Customer ID
+   - Churn
+   - Tenure
+   - City Tier
+   - Warehouse To Home
+   - Hour Spend On App     
+   - Number of Device Registered
+   - Satisfaction Score
+   - Number of Address
+   - Camplain
+   - Order Amount Hike From Last Year
+   - Coupon Used
+   - Order Count
+   - Day Since Last Order
+   - Cashback Amount
 
 **Feature Important**     
 ![CDP Flow](https://github.com/Pinnun/MADT8101-Seminar-in-Advanced-Analytic/blob/106419a858ac5e3e6a88f7dbdcfd4ae9346843c3/4%20Churn%20Scoring/Raw%20Data/FeatureImportant_EcommerceChurn.png)
