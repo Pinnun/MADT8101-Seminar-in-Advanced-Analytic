@@ -17,6 +17,15 @@ Finally found out the features that had more influence on prediction.So, this wa
 - Create a model to predict users who have the potential to churn and understand what features cause users to churn and features that spur potential to minimize churn rates.
 - Optimizing the company’s revenue by grouping users who have the potential to churn so that they can be given different treatments so that the churn rate decreases.
 
+**Exploratory Data Analysis**     
+1. Categorical
+   - Preferred Login  Device     
+   - Preferred Payment Mode     
+   - Preferred Order Cat     
+   - Gender     
+   - Marital Status     
+3. Numerical
+
 **Feature Important**     
 ![CDP Flow](https://github.com/Pinnun/MADT8101-Seminar-in-Advanced-Analytic/blob/106419a858ac5e3e6a88f7dbdcfd4ae9346843c3/4%20Churn%20Scoring/Raw%20Data/FeatureImportant_EcommerceChurn.png)
 
