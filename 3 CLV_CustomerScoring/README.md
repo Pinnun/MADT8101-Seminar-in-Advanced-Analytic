@@ -44,6 +44,11 @@ The customer who is calculate high CLV so they will get the high rewards.
 ![CDP Flow](https://github.com/Pinnun/MADT8101-Seminar-in-Advanced-Analytic/blob/1b73233b9d340b2ee74aa5d3f0b956f65f3c7676/3%20CLV_CustomerScoring/Raw%20Data/2%20Parameter.jpg)
 ![CDP Flow](https://github.com/Pinnun/MADT8101-Seminar-in-Advanced-Analytic/blob/1b73233b9d340b2ee74aa5d3f0b956f65f3c7676/3%20CLV_CustomerScoring/Raw%20Data/3%20Parameter.jpg)
 # CLV Calculaltion
+This step will show which purchasing time in each tier will coverage the cost such as fee and discount cost.     
+**- Classic Level**    at least 4th purchasing time     
+**- Silver Level**     at least 7th purchasing time     
+**- Gold Level**       at least 23rd purchasing time     
+**- Platinum Level**     at least 16th purchasing time
 ![CDP Flow](https://github.com/Pinnun/MADT8101-Seminar-in-Advanced-Analytic/blob/1b73233b9d340b2ee74aa5d3f0b956f65f3c7676/3%20CLV_CustomerScoring/Raw%20Data/1%20CLV%20Cal.jpg) 
 ![CDP Flow](https://github.com/Pinnun/MADT8101-Seminar-in-Advanced-Analytic/blob/1b73233b9d340b2ee74aa5d3f0b956f65f3c7676/3%20CLV_CustomerScoring/Raw%20Data/2%20CLV%20Cal.jpg
 )  
