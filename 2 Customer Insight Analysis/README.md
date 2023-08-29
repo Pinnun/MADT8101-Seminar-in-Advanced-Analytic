@@ -20,8 +20,9 @@ Gaining customer insights through analysis aids swift, informed business decisio
 - Segment your customers and personalize their experience
   
 - Identify friction throughout the customer journey
+[Reference user pilot website](https://userpilot.com/blog/customer-analytics-insights/)
 
-# Exple case of Customer Insight of Supermarket Tolus     
+# Example case of Customer Insight of Supermarket Tolus     
 
 - **Business objective** is to maximize profit in retail supermarket in Bangkok,Thailand  
 - **Business Strategy** is to maintain Customer Retention  
