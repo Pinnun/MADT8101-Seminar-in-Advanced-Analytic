@@ -74,7 +74,7 @@ The Recency of date that customer last purchase with us within 1 month (31/07/20
 
 ![CDP Flow](https://github.com/Pinnun/MADT8101-Seminar-in-Advanced-Analytic/blob/0e5c3d056e1b95c76d27b0fc8d2e8f5d5f04c7e3/2%20Customer%20Insight%20Analysis/Raw%20Data/ClusterbyRecency1Month.png) 
 Total Spend within 7 months (01/01/2008 to 31/07/2008)  
-**- Cluster 0**: Average total spending 25.96 (Mostly<50)___Little Spend
+**- Cluster 0**: Average total spending 25.96 (Mostly<50)___Little Spend     
 **- Cluster 1** : Average total spending 50.55 (Mostly <150)___Moderate  
 **- Cluster 2** : Average total spending 1.17__Little Spend  
 **- Cluster 3**: Average total spending 12.44 (Mostly<40)__Little Spend  
