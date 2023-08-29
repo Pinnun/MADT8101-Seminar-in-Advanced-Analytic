@@ -7,7 +7,7 @@
   
 - In the following discussion, we'll explore natural language processing techniques and real-world applications that brands employ to gain deeper insights into the digital consumer's voice.
 
-# Use Case of Voice of Customer : SALA Samui Chaweng Beach Resort     
+
 ***Step to do Voice of Customer (VOC) with NLP***    
 - Data processing/analyzing
 - Data cleansing
@@ -31,7 +31,7 @@ Word embedding and sentence embedding, and by extension of paragraphs and docume
 
 
 
-## Comment from Tripadvisor     
+# Use Case of Voice of Customer : SALA Samui Chaweng Beach Resort        
 Sampling comment from trip advisor of SALA Samui Chaweng Beach Resort for 13 comments which the comment shown below:    
 ![CDP Flow](https://github.com/Pinnun/MADT8101-Seminar-in-Advanced-Analytic/blob/58ad84a6a6c8d6d30c00789ccad5d473a29b89b4/6%20VOC/Raw%20Data/TripadvirsorReview1.png)
 ## Topic Modeling with LDA     
