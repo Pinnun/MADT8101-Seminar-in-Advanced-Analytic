@@ -14,7 +14,9 @@ A product recommendation is basically a filtering system that seeks to predict a
 **Customer segmentation** is a vital tool for tailoring *personalized recommendations* in business. It involves categorizing customers into smaller groups based on shared characteristics like demographics or behavior. By doing so, businesses can uncover valuable insights about customer preferences and tendencies.      
 - For instance, analyzing past purchasing behavior helps identify customers' product or service preferences, which then informs *targeted recommendations*. Beyond purchase history, factors like browsing patterns, location, and demographics contribute to more refined segments, enabling even more precise personalization. These segmented groups allow businesses to provide tailored recommendations through various channels like emails, websites, or apps. Ultimately, customer segmentation enhances businesses' understanding of their clientele, leading to highly relevant recommendations that bolster customer engagement, loyalty, and revenue.
 
-There are analytic finding from data transactions as followings:    
+# Use case for Product Recommendation based on Customer Segmentation Engine   
+*Data Understanding*
+There are data analysis finding from data transactions as followings:    
 1. One time visit in cluster "1" approx. 87%
 2. Cluster 3, there are spread of no of visit in this cluster
 ![CDP Flow](https://github.com/Pinnun/MADT8101-Seminar-in-Advanced-Analytic/blob/445107beea8634d3a3f20d0cb3d6feebd320d5e4/5%20Customer%20Segmentation_Product%20Recommendation/Raw%20Data/No%20of%20customer%20in%20each%20cluster.png)
