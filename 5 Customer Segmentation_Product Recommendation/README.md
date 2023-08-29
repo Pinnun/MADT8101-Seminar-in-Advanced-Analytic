@@ -15,7 +15,8 @@ A product recommendation is basically a filtering system that seeks to predict a
 - For instance, analyzing past purchasing behavior helps identify customers' product or service preferences, which then informs *targeted recommendations*. Beyond purchase history, factors like browsing patterns, location, and demographics contribute to more refined segments, enabling even more precise personalization. These segmented groups allow businesses to provide tailored recommendations through various channels like emails, websites, or apps. Ultimately, customer segmentation enhances businesses' understanding of their clientele, leading to highly relevant recommendations that bolster customer engagement, loyalty, and revenue.
 
 # Use case for Product Recommendation based on Customer Segmentation Engine   
-*Data Understanding*
+***DATA ANALYSIS***     
+
 There are data analysis finding from data transactions as followings:    
 1. One time visit in cluster "1" approx. 87%
 2. Cluster 3, there are spread of no of visit in this cluster
@@ -23,7 +24,7 @@ There are data analysis finding from data transactions as followings:
 
 Therefore, setting project objective to reach out to customers more effectively by increasingly personalized transactions and improve brand loyalty & customer lifetime value.
 
-Therefore, the method using for reach the objective are Customer Segmentation and Product Recommendation. 
+Therefore, the method using for reach the objective are ***Customer Segmentation and Product Recommendation***. 
 ![CDP Flow](https://github.com/Pinnun/MADT8101-Seminar-in-Advanced-Analytic/blob/445107beea8634d3a3f20d0cb3d6feebd320d5e4/5%20Customer%20Segmentation_Product%20Recommendation/Raw%20Data/12%20Product%20Recommendation1.png)
 ## DATA UNDERSTANDING     
 Data analytice use case of HDI Corporate which have 2 files:     
