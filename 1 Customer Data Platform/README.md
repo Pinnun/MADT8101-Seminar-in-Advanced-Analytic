@@ -20,7 +20,7 @@ Activate the segmentation from the previous step for further marketing (Ex. Shoo
 
 ![CDP Flow](https://github.com/Pinnun/MADT8101-Seminar-in-Advanced-Analytic/blob/c8e0ff630862c44175f93cd3205cbbe128e52eed/1%20Customer%20Data%20Platform/Raw%20Data/CDP%20RR.png)     
 
-[References](https://www.salesforce.com/ap/resources/guides/getting-started-with-a-customer-data-platform/)     
+[References Predicitive Website](https://www.salesforce.com/ap/resources/guides/getting-started-with-a-customer-data-platform/)     
 
 
 ## Customer Data Platform Flow
@@ -29,3 +29,7 @@ Activate the segmentation from the previous step for further marketing (Ex. Shoo
 ## CDP Table of Data Collection
 ![CDP Data Collection](https://github.com/Pinnun/MADT8101-Seminar-in-Advanced-Analytic/blob/8ff4ef508180fa808fd4fe1508e9a1aab965450c/1%20Customer%20Data%20Platform/Raw%20Data/CDP%20Table%20of%20Data%20Collection.png)
 
+## Top Customer Data Platform Use Cases     
+
+
+[References CDP.com](https://cdp.com/articles/how-to-develop-cdp-use-cases/)
