@@ -21,7 +21,7 @@ Gaining customer insights through analysis aids swift, informed business decisio
   
 - Identify friction throughout the customer journey
 
-# Customer Insight of Supermarket Tolus     
+# Exple case of Customer Insight of Supermarket Tolus     
 
 - **Business objective** is to maximize profit in retail supermarket in Bangkok,Thailand  
 - **Business Strategy** is to maintain Customer Retention  
