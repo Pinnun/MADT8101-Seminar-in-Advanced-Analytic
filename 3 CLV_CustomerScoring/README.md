@@ -13,8 +13,11 @@ Understanding the financial impact of your marketing efforts will help your comp
   
 - CLV encourages better decision making by teaching marketers to spend less time acquiring customers with lower value.
 And the bottom line? Effective management of your *customers relationships*, which leads to increased profitability—that’s perhaps the most obvious advantage of Customer Lifetime Value.
-Therefore, the one method to extent customer life time value and customer retention the company use member tier campaign or loyalty program to to reward customers for their repeated purchases and engagement with a brand.
-We choose use case of shopee try to modify calculation new customer score.
+
+Therefore, the one method to extent customer life time value and customer retention the company use member tier campaign or loyalty program to to reward customers for their repeated purchases and engagement with a brand.     
+
+We choose use case of shopee try to modify calculation new customer score.     
+
 # Shopee Use Case     
 1 How to *adapt factor loyalty program* of Use case and *calculation new customer score* formula     
 2 *CLV Calculation* as a factor of loyalty program and show calculation
