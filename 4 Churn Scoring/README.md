@@ -52,8 +52,10 @@ From the dataset owned by shoptify, there are 20 feature datasets consisting of 
 **Confusion matrix**     
 ![CDP Flow](https://github.com/Pinnun/MADT8101-Seminar-in-Advanced-Analytic/blob/106419a858ac5e3e6a88f7dbdcfd4ae9346843c3/4%20Churn%20Scoring/Raw%20Data/Confusion%20matrix.png)
 
-**Bivariate Analysis**     
-![CDP Flow](https://github.com/Pinnun/MADT8101-Seminar-in-Advanced-Analytic/blob/106419a858ac5e3e6a88f7dbdcfd4ae9346843c3/4%20Churn%20Scoring/Raw%20Data/Bivariate%20Analysis.png)
+![CDP Flow](https://github.com/Pinnun/MADT8101-Seminar-in-Advanced-Analytic/blob/0c75f8f2af40c62ea179e9a2a37ccd2307ea7994/4%20Churn%20Scoring/Raw%20Data/Precious_Recall.png)     
+
+The resulting precision value is quite large and the gap between labels 0 and 1 is very small, namely 0.04, so the resulting False Positive value is minimum, which means that the error in predicting customer churn is getting smaller.     
+
 
 **Multivariate Analysis**     
 
