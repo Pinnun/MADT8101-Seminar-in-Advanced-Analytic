@@ -59,3 +59,5 @@ From the dataset owned by shoptify, there are 20 feature datasets consisting of 
 
 ![CDP Flow](https://github.com/Pinnun/MADT8101-Seminar-in-Advanced-Analytic/blob/106419a858ac5e3e6a88f7dbdcfd4ae9346843c3/4%20Churn%20Scoring/Raw%20Data/Multivariate%20Analysis.png)
 
+# Recommendation
+To increase the service level in handling customer complaints by improving the products or services provided, such as automation of customer service and live chat.
