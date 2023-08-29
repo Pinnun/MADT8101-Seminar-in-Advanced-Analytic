@@ -53,5 +53,9 @@ From the dataset owned by shoptify, there are 20 feature datasets consisting of 
 ![CDP Flow](https://github.com/Pinnun/MADT8101-Seminar-in-Advanced-Analytic/blob/106419a858ac5e3e6a88f7dbdcfd4ae9346843c3/4%20Churn%20Scoring/Raw%20Data/Bivariate%20Analysis.png)
 
 **Multivariate Analysis**     
+
+- The correlation between target churn features and tenure features is obtained with a correlation value of -0.34. The smaller the tenure value, the greater the churn rate.     
+- Another feature correlation that is quite large is between the target churn feature and the complain feature with a correlation value of 0.25. The greater the complaint rate, the greater the churn rate.     
+
 ![CDP Flow](https://github.com/Pinnun/MADT8101-Seminar-in-Advanced-Analytic/blob/106419a858ac5e3e6a88f7dbdcfd4ae9346843c3/4%20Churn%20Scoring/Raw%20Data/Multivariate%20Analysis.png)
 
