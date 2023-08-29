@@ -10,7 +10,8 @@ The process of dividing a company's customers into groups based on common charac
 
 A product recommendation is basically a filtering system that seeks to predict and show the items that a user would like to purchase. It may not be entirely accurate, but if it shows you what you like then it is doing its job right.    
 
-## PROJECT OBJECTIVES    
+## Product Recommendation based on Customer Segmentation Engine    
+
 There are analytic finding from data transactions as followings:    
 1. One time visit in cluster "1" approx. 87%
 2. Cluster 3, there are spread of no of visit in this cluster
