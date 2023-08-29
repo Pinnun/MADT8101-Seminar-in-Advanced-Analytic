@@ -30,7 +30,8 @@ First step we have to understand business such as painpoint, strategy, and BU ex
 - **Business Strategy** is to maintain Customer Retention  
 
 ![CDP Flow](https://github.com/Pinnun/MADT8101-Seminar-in-Advanced-Analytic/blob/0e5c3d056e1b95c76d27b0fc8d2e8f5d5f04c7e3/2%20Customer%20Insight%20Analysis/Raw%20Data/Brand.png)
-**Tolus's Expectaion**
+**Tolus's Expectaion**     
+
 To turn member customer to loyalty customer expected to increase frequency and varaity of purchase product by 50% and increase customer spending by 30%  
 ![CDP Flow](https://github.com/Pinnun/MADT8101-Seminar-in-Advanced-Analytic/blob/0e5c3d056e1b95c76d27b0fc8d2e8f5d5f04c7e3/2%20Customer%20Insight%20Analysis/Raw%20Data/Expectations.png)
 # Data Preparation for Analytic by using RFM
