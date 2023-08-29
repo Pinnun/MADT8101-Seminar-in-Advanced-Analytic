@@ -11,6 +11,8 @@ The process of dividing a company's customers into groups based on common charac
 A product recommendation is basically a filtering system that seeks to predict and show the items that a user would like to purchase. It may not be entirely accurate, but if it shows you what you like then it is doing its job right.    
 
 ## Product Recommendation based on Customer Segmentation Engine    
+**Customer segmentation** is a vital tool for tailoring *personalized recommendations* in business. It involves categorizing customers into smaller groups based on shared characteristics like demographics or behavior. By doing so, businesses can uncover valuable insights about customer preferences and tendencies.      
+For instance, analyzing past purchasing behavior helps identify customers' product or service preferences, which then informs *targeted recommendations*. Beyond purchase history, factors like browsing patterns, location, and demographics contribute to more refined segments, enabling even more precise personalization. These segmented groups allow businesses to provide tailored recommendations through various channels like emails, websites, or apps. Ultimately, customer segmentation enhances businesses' understanding of their clientele, leading to highly relevant recommendations that bolster customer engagement, loyalty, and revenue.
 
 There are analytic finding from data transactions as followings:    
 1. One time visit in cluster "1" approx. 87%
