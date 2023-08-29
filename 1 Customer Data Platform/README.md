@@ -64,6 +64,7 @@ Activate the segmentation from the previous step for further marketing (Ex. Shoo
 
 ***9. Improving Operational Efficiency***
 
-      CDPs boost marketing through efficient operations and automated tasks. Advanced ones include AI and ML capabilities for lead qualification, campaign creation, real-time activations, and customer journey management.
+   CDPs boost marketing through efficient operations and automated tasks. Advanced ones include AI and ML capabilities for lead qualification, campaign creation, real-time activations, and customer journey management.     
+   
 
 [References CDP.com](https://cdp.com/articles/how-to-develop-cdp-use-cases/)
