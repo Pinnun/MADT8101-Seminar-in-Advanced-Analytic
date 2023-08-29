@@ -25,19 +25,22 @@ Gaining customer insights through analysis aids swift, informed business decisio
 [Reference user pilot website](https://userpilot.com/blog/customer-analytics-insights/)
 
 # Example case of Customer Insight of Supermarket Tolus     
-
+First step we have to understand business such as painpoint, strategy, and BU expectation.
 - **Business objective** is to maximize profit in retail supermarket in Bangkok,Thailand  
 - **Business Strategy** is to maintain Customer Retention  
 
 ![CDP Flow](https://github.com/Pinnun/MADT8101-Seminar-in-Advanced-Analytic/blob/0e5c3d056e1b95c76d27b0fc8d2e8f5d5f04c7e3/2%20Customer%20Insight%20Analysis/Raw%20Data/Brand.png)
-# Tolus's Expectaion
+**Tolus's Expectaion**
 To turn member customer to loyalty customer expected to increase frequency and varaity of purchase product by 50% and increase customer spending by 30%  
 ![CDP Flow](https://github.com/Pinnun/MADT8101-Seminar-in-Advanced-Analytic/blob/0e5c3d056e1b95c76d27b0fc8d2e8f5d5f04c7e3/2%20Customer%20Insight%20Analysis/Raw%20Data/Expectations.png)
 # Data Preparation for Analytic by using RFM
-RFM  
+Second, we have to understand data detail, data type, process and ownership in order to deal with it such as cleansing, data normalization or finding external source for fullfillment gap. In this case we use RFM as important feature.     
+
+
+**RFM  
 R: Recencies within 1 Months, 3 Months   
 F: Frequency within 7 Months  
-M: Monetary within 7 Months  
+M: Monetary within 7 Months**  
 
 ![CDP Flow](https://github.com/Pinnun/MADT8101-Seminar-in-Advanced-Analytic/blob/0e5c3d056e1b95c76d27b0fc8d2e8f5d5f04c7e3/2%20Customer%20Insight%20Analysis/Raw%20Data/RFM%20Data.png)
 # Analysis by using correlation matrix
