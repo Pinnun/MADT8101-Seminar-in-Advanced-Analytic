@@ -1,4 +1,14 @@
-# Customer Segmentation & Product Recommendation    
+# Customer Segmentation & Product Recommendation   
+
+**Customer Segmentations**     
+
+The process of dividing a company's customers into groups based on common characteristics so companies can market to each group effectively and appropriately.    
+
+▪ Clustering = Unsupervised Classification    
+
+**Product Recommendation**    
+
+A product recommendation is basically a filtering system that seeks to predict and show the items that a user would like to purchase. It may not be entirely accurate, but if it shows you what you like then it is doing its job right.    
 
 ## PROJECT OBJECTIVES    
 There are analytic finding from data transactions as followings:    
