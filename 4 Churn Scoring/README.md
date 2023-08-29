@@ -7,6 +7,16 @@ Finally found out the features that had more influence on prediction.So, this wa
 [Basic Churn Prediction](https://github.com/Pinnun/MADT8101-Seminar-in-Advanced-Analytic/blob/11e6edc0f24e0c2aabe3b247ff95acbce688e084/4%20Churn%20Scoring/Raw%20Data/Python/Basic_Churn_Prediction.ipynb)     
 [Ecommerce Churn Prediction](https://github.com/Pinnun/MADT8101-Seminar-in-Advanced-Analytic/blob/11e6edc0f24e0c2aabe3b247ff95acbce688e084/4%20Churn%20Scoring/Raw%20Data/Python/E_Commerce_Churn_Prediction.ipynb)
 # E Commerce Churn Prediction     
+
+**Goal**
+
+- Predict the type of customer that has the potential to churn by identifying features to minimize customer churn rates and get the right business decisions.
+
+**Objectives**
+
+- Create a model to predict users who have the potential to churn and understand what features cause users to churn and features that spur potential to minimize churn rates.
+- Optimizing the company’s revenue by grouping users who have the potential to churn so that they can be given different treatments so that the churn rate decreases.
+
 **Feature Important**     
 ![CDP Flow](https://github.com/Pinnun/MADT8101-Seminar-in-Advanced-Analytic/blob/106419a858ac5e3e6a88f7dbdcfd4ae9346843c3/4%20Churn%20Scoring/Raw%20Data/FeatureImportant_EcommerceChurn.png)
 
