@@ -1,4 +1,17 @@
-# Customer Insight of Supermarket Tolus
+# Customer Analytic Insight     
+There are four categories of customer data analytics: **descriptive, diagnostic, predictive, and prescriptive**.     
+
+**Descriptive analytics**  helps you discover what happened in the past using historical data. It gives you insight into the causes of customer trends, as well as helps you prepare for the future.     
+
+**Diagnostic customer analytics** help you understand the “why” behind customer behavior by collecting user feedback and using hypothesis testing.     
+
+**Predictive analytics** helps you predict customers’ future performance and act on it.     
+
+**Prescriptive analytics** unlocks recommendations on what to do to fix an issue or the path you should take to achieve a goal.       
+
+
+# Customer Insight of Supermarket Tolus     
+
 - **Business objective** is to maximize profit in retail supermarket in Bangkok,Thailand  
 - **Business Strategy** is to maintain Customer Retention  
 
