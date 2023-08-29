@@ -20,6 +20,8 @@ Activate the segmentation from the previous step for further marketing (Ex. Shoo
 
 ![CDP Flow](https://github.com/Pinnun/MADT8101-Seminar-in-Advanced-Analytic/blob/c8e0ff630862c44175f93cd3205cbbe128e52eed/1%20Customer%20Data%20Platform/Raw%20Data/CDP%20RR.png)     
 
+[References](https://www.salesforce.com/ap/resources/guides/getting-started-with-a-customer-data-platform/)     
+
 
 ## Customer Data Platform Flow
 ![CDP Flow](https://github.com/Pinnun/MADT8101-Seminar-in-Advanced-Analytic/blob/1a76e48cbf53ad34361745ac29dd77ece66f35b0/1%20Customer%20Data%20Platform/Raw%20Data/CDP%20Flow.png)
