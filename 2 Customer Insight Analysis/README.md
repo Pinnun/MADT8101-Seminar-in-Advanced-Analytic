@@ -48,7 +48,7 @@ M: Monetary within 7 Months**
 For understanding relationship of data by using correlation matrix, according to the graph mostly is prositive relation between variable such as recency 1 months VS total spend are positive correlation 69.5%.
 ![CDP Flow](https://github.com/Pinnun/MADT8101-Seminar-in-Advanced-Analytic/blob/0e5c3d056e1b95c76d27b0fc8d2e8f5d5f04c7e3/2%20Customer%20Insight%20Analysis/Raw%20Data/Corrlation%20matrix.png)
 # Clustering group of customer
-The Clustering K Means at 5
+The Clustering **K Means at 5**
 ![CDP Flow](https://github.com/Pinnun/MADT8101-Seminar-in-Advanced-Analytic/blob/0e5c3d056e1b95c76d27b0fc8d2e8f5d5f04c7e3/2%20Customer%20Insight%20Analysis/Raw%20Data/Result.png)
 Variable Important are recency 1 months VS total spend
 ![CDP Flow](https://github.com/Pinnun/MADT8101-Seminar-in-Advanced-Analytic/blob/5134cd0e81d65d9cf11a220849aa68783ff42ace/2%20Customer%20Insight%20Analysis/Raw%20Data/Viriable%20importance.png)
@@ -56,7 +56,7 @@ Scattle plot of recency 1 months VS total spend
 ![CDP Flow](https://github.com/Pinnun/MADT8101-Seminar-in-Advanced-Analytic/blob/0e5c3d056e1b95c76d27b0fc8d2e8f5d5f04c7e3/2%20Customer%20Insight%20Analysis/Raw%20Data/ScatterPlot.png)
 # Explaination variable relationship
 
-The variaty in purchase item in each division from each Cluster (Total Division is 9)  
+The variaty in **purchase** item in each division from each Cluster (Total Division is 9)  
 **- Cluster1** :  Mostly purchase product 4-6 divisions (Moderate)  
 **- Cluster2** : Purchase product less than 3 divisions (The last)  
 **- Cluster3** : Mostly purchase product 4-6 divisions  (Moderate)  
@@ -64,7 +64,7 @@ The variaty in purchase item in each division from each Cluster (Total Division 
 **- Other** : Purchase product more than 6-8 divisions (The Best)  
 
 ![CDP Flow](https://github.com/Pinnun/MADT8101-Seminar-in-Advanced-Analytic/blob/0e5c3d056e1b95c76d27b0fc8d2e8f5d5f04c7e3/2%20Customer%20Insight%20Analysis/Raw%20Data/ClusterbyFrequencyDivision.png)
-The Recency of date that customer last purchase with us within 1 month (31/07/2008)  
+The Recency of date that **customer last purchase** with us within 1 month (31/07/2008)  
 **- Cluster 0** : Customer last purchase with us between 72 to 142 days (Nearly Churn)  
 **- Cluster 1** : Customer last purchase with us between 25 to 88 days (Moderate)  
 **- Cluster 2** : Customer last purchase with us between 25 to 81 days (Moderate)  
@@ -73,7 +73,7 @@ The Recency of date that customer last purchase with us within 1 month (31/07/20
 **- Other** : Customer last purchase with us between 25 to 43 days (The Best)  
 
 ![CDP Flow](https://github.com/Pinnun/MADT8101-Seminar-in-Advanced-Analytic/blob/0e5c3d056e1b95c76d27b0fc8d2e8f5d5f04c7e3/2%20Customer%20Insight%20Analysis/Raw%20Data/ClusterbyRecency1Month.png) 
-Total Spend within 7 months (01/01/2008 to 31/07/2008)  
+**Total Spend** within 7 months (01/01/2008 to 31/07/2008)  
 **- Cluster 0**: Average total spending 25.96 (Mostly<50)___Little Spend     
 **- Cluster 1** : Average total spending 50.55 (Mostly <150)___Moderate  
 **- Cluster 2** : Average total spending 1.17__Little Spend  
