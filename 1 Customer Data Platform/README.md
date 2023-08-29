@@ -16,7 +16,9 @@ Use those data to create marketing campaigns (Ex. Segmentation).
 *5. Activation*     
 Activate the segmentation from the previous step for further marketing (Ex. Shooting Ads through various channels by sending out different offers in accordance to each customer’s profile).   
 
-Roles and responsibilities of CDP, divided into 4 key functions as below:      
+*Roles and responsibilities of CDP*, divided into 4 key functions as below:      
+
+![CDP Flow](https://github.com/Pinnun/MADT8101-Seminar-in-Advanced-Analytic/blob/c8e0ff630862c44175f93cd3205cbbe128e52eed/1%20Customer%20Data%20Platform/Raw%20Data/CDP%20RR.png)     
 
 
 ## Customer Data Platform Flow
