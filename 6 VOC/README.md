@@ -16,8 +16,10 @@
 - Data point for plotting/reporting
 
 
-***Basic linguistic features***
-**▪ Language identification**
+***Basic linguistic features***    
+
+**▪ Language identification**    
+
 consists in detecting the language used in a text. It allows defining the models to be applied to carry out the other activities.
 **▪ Separation of sentences**    
 (also called sentence boundary disambiguation), words, or groups of words. Many NLP tasks need to work at the sentence or word level, hence the importance of this processing. This activity is therefore essential in a text processing chain.    
