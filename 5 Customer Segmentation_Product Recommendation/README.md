@@ -1,4 +1,5 @@
-# DATA ANALYTIC PROJECT      
+# Customer Segmentation & Product Recommendation    
+
 ## PROJECT OBJECTIVES    
 There are analytic finding from data transactions as followings:    
 1. One time visit in cluster "1" approx. 87%
