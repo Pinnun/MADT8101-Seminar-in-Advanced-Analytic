@@ -9,6 +9,17 @@ There are four categories of customer data analytics: **descriptive, diagnostic,
 
 - **Prescriptive analytics** unlocks recommendations on what to do to fix an issue or the path you should take to achieve a goal.       
 
+**Why customer analytics insights are important?**     
+
+Gaining customer insights through analysis aids swift, informed business decisions. It helps your company as following example     
+
+- Understand customer behavior and identify patterns
+  
+- Predict future customer behavior
+  
+- Segment your customers and personalize their experience
+  
+- Identify friction throughout the customer journey
 
 # Customer Insight of Supermarket Tolus     
 
