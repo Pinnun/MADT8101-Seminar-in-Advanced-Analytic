@@ -68,5 +68,5 @@ Activate the segmentation from the previous step for further marketing (Ex. Shoo
 
    CDPs boost marketing through efficient operations and automated tasks. Advanced ones include AI and ML capabilities for lead qualification, campaign creation, real-time activations, and customer journey management.     
    
-**<Reference>**.    
-[References CDP.com](https://cdp.com/articles/how-to-develop-cdp-use-cases/)
+**[Reference]**    
+>[References CDP.com](https://cdp.com/articles/how-to-develop-cdp-use-cases/)
