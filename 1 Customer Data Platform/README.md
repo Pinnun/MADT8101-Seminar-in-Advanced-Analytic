@@ -2,7 +2,8 @@
 A **Customer Data Platform (CDP)** is a platform that amalgamates and manages customer data from various sources. The goal of a CDP is to provide businesses with a complete view of the customer by enabling other analytics tools to use the data and provide useful insights.     
 
 
-   **CDP Work Process**     
+**CDP Work Process**     
+
 
 ***1. Data Collection***     
 There are two types of customer retention data collection patterns for brands: Collect customer’s profile and behavioral data altogether in one place.     
