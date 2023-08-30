@@ -21,8 +21,8 @@ Gaining customer insights through analysis aids swift, informed business decisio
   
 - Identify friction throughout the customer journey
 
-  
-[Reference user pilot website](https://userpilot.com/blog/customer-analytics-insights/)
+**[Reference]**  
+>[Reference user pilot website](https://userpilot.com/blog/customer-analytics-insights/)
 
 # Example case of Customer Insight of Supermarket Tolus     
 First step we have to understand business such as painpoint, strategy, and BU expectation.
