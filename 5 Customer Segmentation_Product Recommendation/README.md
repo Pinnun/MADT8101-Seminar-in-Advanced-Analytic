@@ -104,4 +104,4 @@ Customer Dashboard
 ![CDP Flow](https://github.com/Pinnun/MADT8101-Seminar-in-Advanced-Analytic/blob/445107beea8634d3a3f20d0cb3d6feebd320d5e4/5%20Customer%20Segmentation_Product%20Recommendation/Raw%20Data/18%20Performance%20Evaluation.png)
 
 **[Python Notebook]**     
->[Python](https://github.com/Pinnun/MADT8101-Seminar-in-Advanced-Analytic/tree/6bc20a7706e5e3e1440f9a95e078fd6fe8985f3b/5%20Customer%20Segmentation_Product%20Recommendation/Python)
+>[Product Recommendation based on Customer Segmentation Engine](https://github.com/Pinnun/MADT8101-Seminar-in-Advanced-Analytic/tree/6bc20a7706e5e3e1440f9a95e078fd6fe8985f3b/5%20Customer%20Segmentation_Product%20Recommendation/Python)
