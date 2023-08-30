@@ -22,7 +22,7 @@ Activate the segmentation from the previous step for further marketing (Ex. Shoo
 
 
 **[Reference]**    
-[References Predicitive Website](https://www.salesforce.com/ap/resources/guides/getting-started-with-a-customer-data-platform/)     
+>[References Predicitive Website](https://www.salesforce.com/ap/resources/guides/getting-started-with-a-customer-data-platform/)     
 
 
 ## Customer Data Platform Flow
