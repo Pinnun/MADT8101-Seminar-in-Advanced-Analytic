@@ -47,7 +47,7 @@ Group 3 Ambiance
 
 
 **[Python Notebook]**    
-[Voice of Customer with NLP](https://github.com/Pinnun/MADT8101-Seminar-in-Advanced-Analytic/blob/d3d9c55dc701d63abdc7d9a5ab8e2d0efd47f741/6%20VOC/Raw%20Data/Python/Sala%20Samui.ipynb)     
+>[Voice of Customer with NLP](https://github.com/Pinnun/MADT8101-Seminar-in-Advanced-Analytic/blob/d3d9c55dc701d63abdc7d9a5ab8e2d0efd47f741/6%20VOC/Raw%20Data/Python/Sala%20Samui.ipynb)     
 
 ## Result for Topic Medeling with LDA     
 ![CDP Flow](https://github.com/Pinnun/MADT8101-Seminar-in-Advanced-Analytic/blob/58ad84a6a6c8d6d30c00789ccad5d473a29b89b4/6%20VOC/Raw%20Data/Result1.png)
