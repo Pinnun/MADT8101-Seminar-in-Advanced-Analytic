@@ -20,6 +20,8 @@ Activate the segmentation from the previous step for further marketing (Ex. Shoo
 
 ![CDP Flow](https://github.com/Pinnun/MADT8101-Seminar-in-Advanced-Analytic/blob/c8e0ff630862c44175f93cd3205cbbe128e52eed/1%20Customer%20Data%20Platform/Raw%20Data/CDP%20RR.png)     
 
+
+**<Reference>**.    
 [References Predicitive Website](https://www.salesforce.com/ap/resources/guides/getting-started-with-a-customer-data-platform/)     
 
 
@@ -66,5 +68,5 @@ Activate the segmentation from the previous step for further marketing (Ex. Shoo
 
    CDPs boost marketing through efficient operations and automated tasks. Advanced ones include AI and ML capabilities for lead qualification, campaign creation, real-time activations, and customer journey management.     
    
-
+**<Reference>**.    
 [References CDP.com](https://cdp.com/articles/how-to-develop-cdp-use-cases/)
